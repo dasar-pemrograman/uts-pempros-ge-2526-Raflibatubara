@@ -68,7 +68,7 @@ id|name|quantity|price
 
 ## Contoh Input
 
-```
+```                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 receive#B001#Keyboard#10#150000
 receive#B002#Mouse#5#50000
 report
